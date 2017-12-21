@@ -1,0 +1,30 @@
+body{
+    font-family: "Century Gothic";
+    font-size:  14px;
+    font-size: bold;
+
+
+    background-image: url("img/beach-1449008_1280.jpg")
+
+
+}
+h1{
+    color:#cc0000;
+    font-size: xx-large;
+}
+#rubrik{
+    font-size: x-large;
+    font-style: oblique;
+
+
+}
+
+.content {
+    display: inline-block;
+    width: 500px;
+    position:absolute;
+    right: 50px;
+    bottom: 50px;
+    
+}
+
